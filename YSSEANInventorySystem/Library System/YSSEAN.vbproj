@@ -1,0 +1,481 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{A7E1A1D3-B474-4EE6-A580-936DEEB0C861}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>Library_System.My.MyApplication</StartupObject>
+    <RootNamespace>Library_System</RootNamespace>
+    <AssemblyName>YsseanGeneralMerchandiseInventorySystem</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <PublishUrl>C:\Users\Admin\Desktop\YSSEANS.zip-20231201T234708Z-001\WebSite\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>1</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <PublishWizardCompleted>true</PublishWizardCompleted>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>YsseanGeneralMerchandiseInventorySystem.xml</DocumentationFile>
+    <NoWarn>
+    </NoWarn>
+    <WarningsAsErrors>41999,42016,42017,42018,42019,42020,42021,42022,42032,42036</WarningsAsErrors>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>YsseanGeneralMerchandiseInventorySystem.xml</DocumentationFile>
+    <NoWarn>
+    </NoWarn>
+    <WarningsAsErrors>41999,42016,42017,42018,42019,42020,42021,42022,42032,42036</WarningsAsErrors>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>On</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>Logo.ico</ApplicationIcon>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestCertificateThumbprint>7686AE107A2681A4BA38115FC3EE93CA4586FA35</ManifestCertificateThumbprint>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestKeyFile>YSSEAN_TemporaryKey.pfx</ManifestKeyFile>
+  </PropertyGroup>
+  <PropertyGroup>
+    <GenerateManifests>true</GenerateManifests>
+  </PropertyGroup>
+  <PropertyGroup>
+    <SignManifests>true</SignManifests>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Windows.Forms.DataVisualization" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Net.Http" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+    <Import Include="System.Threading.Tasks" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AdminForms\AccountsManagement.Designer.vb">
+      <DependentUpon>AccountsManagement.vb</DependentUpon>
+    </Compile>
+    <Compile Include="AdminForms\AccountsManagement.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LogInForms\LogInAdmin.Designer.vb">
+      <DependentUpon>LogInAdmin.vb</DependentUpon>
+    </Compile>
+    <Compile Include="LogInForms\LogInAdmin.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LogInForms\LogInAs.Designer.vb">
+      <DependentUpon>LogInAs.vb</DependentUpon>
+    </Compile>
+    <Compile Include="LogInForms\LogInAs.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ReportsForms\AllProductsReport.Designer.vb">
+      <DependentUpon>AllProductsReport.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ReportsForms\AllProductsReport.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GlobalVariablesAndFunctions.vb" />
+    <Compile Include="AdminForms\AccountsDashboard.Designer.vb">
+      <DependentUpon>AccountsDashboard.vb</DependentUpon>
+    </Compile>
+    <Compile Include="AdminForms\AccountsDashboard.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AdminForms\AdminInterface.Designer.vb">
+      <DependentUpon>AdminInterface.vb</DependentUpon>
+    </Compile>
+    <Compile Include="AdminForms\AdminInterface.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AdminForms\PendingRequests.Designer.vb">
+      <DependentUpon>PendingRequests.vb</DependentUpon>
+    </Compile>
+    <Compile Include="AdminForms\PendingRequests.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ReportsForms\StockInReport.Designer.vb">
+      <DependentUpon>StockInReport.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ReportsForms\StockInReport.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ReportsForms\StockOutReport.Designer.vb">
+      <DependentUpon>StockOutReport.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ReportsForms\StockOutReport.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AdminForms\Services_Print.Designer.vb">
+      <DependentUpon>Services_Print.vb</DependentUpon>
+    </Compile>
+    <Compile Include="AdminForms\Services_Print.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AdminForms\Services_Xerox.Designer.vb">
+      <DependentUpon>Services_Xerox.vb</DependentUpon>
+    </Compile>
+    <Compile Include="AdminForms\Services_Xerox.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AdminForms\ProductsDashboard.Designer.vb">
+      <DependentUpon>ProductsDashboard.vb</DependentUpon>
+    </Compile>
+    <Compile Include="AdminForms\ProductsDashboard.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LogInForms\Login.Designer.vb">
+      <DependentUpon>Login.vb</DependentUpon>
+    </Compile>
+    <Compile Include="LogInForms\Login.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AdminForms\ProductManagement.Designer.vb">
+      <DependentUpon>ProductManagement.vb</DependentUpon>
+    </Compile>
+    <Compile Include="AdminForms\ProductManagement.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AdminForms\ServiceManagement.Designer.vb">
+      <DependentUpon>ServiceManagement.vb</DependentUpon>
+    </Compile>
+    <Compile Include="AdminForms\ServiceManagement.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LogInForms\SplashArt.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LogInForms\SplashArt.Designer.vb">
+      <DependentUpon>SplashArt.vb</DependentUpon>
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="StaffForms\StaffsInterface.Designer.vb">
+      <DependentUpon>StaffsInterface.vb</DependentUpon>
+    </Compile>
+    <Compile Include="StaffForms\StaffsInterface.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="StaffForms\StockIn.Designer.vb">
+      <DependentUpon>StockIn.vb</DependentUpon>
+    </Compile>
+    <Compile Include="StaffForms\StockIn.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="StaffForms\StockOut.Designer.vb">
+      <DependentUpon>StockOut.vb</DependentUpon>
+    </Compile>
+    <Compile Include="StaffForms\StockOut.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Trials\Edit.Designer.vb">
+      <DependentUpon>Edit.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Trials\Edit.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Trials\New.Designer.vb">
+      <DependentUpon>New.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Trials\New.vb">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="AdminForms\AccountsManagement.resx">
+      <DependentUpon>AccountsManagement.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LogInForms\LogInAdmin.resx">
+      <DependentUpon>LogInAdmin.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LogInForms\LogInAs.resx">
+      <DependentUpon>LogInAs.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ReportsForms\AllProductsReport.resx">
+      <DependentUpon>AllProductsReport.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AdminForms\AccountsDashboard.resx">
+      <DependentUpon>AccountsDashboard.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AdminForms\AdminInterface.resx">
+      <DependentUpon>AdminInterface.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AdminForms\PendingRequests.resx">
+      <DependentUpon>PendingRequests.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ReportsForms\StockInReport.resx">
+      <DependentUpon>StockInReport.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ReportsForms\StockOutReport.resx">
+      <DependentUpon>StockOutReport.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AdminForms\Services_Print.resx">
+      <DependentUpon>Services_Print.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AdminForms\Services_Xerox.resx">
+      <DependentUpon>Services_Xerox.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AdminForms\ProductsDashboard.resx">
+      <DependentUpon>ProductsDashboard.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LogInForms\Login.resx">
+      <DependentUpon>Login.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AdminForms\ProductManagement.resx">
+      <DependentUpon>ProductManagement.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AdminForms\ServiceManagement.resx">
+      <DependentUpon>ServiceManagement.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LogInForms\SplashArt.resx">
+      <DependentUpon>SplashArt.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="StaffForms\StaffsInterface.resx">
+      <DependentUpon>StaffsInterface.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="StaffForms\StockIn.resx">
+      <DependentUpon>StockIn.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="StaffForms\StockOut.resx">
+      <DependentUpon>StockOut.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Trials\Edit.resx">
+      <DependentUpon>Edit.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Trials\New.resx">
+      <DependentUpon>New.vb</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="App.config" />
+    <None Include="YSSEAN_TemporaryKey.pfx" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\University_of_Caloocan_City_Coat_of_Arms.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ULMS Splash.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\student %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\user-gear.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\sign-out.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\sign-in %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\sign-out %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\arrow-u-down-left %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\file-plus.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pencil-simple.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\trash.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Blank 1 Panel Landscape Comic Strip %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Blank 1 Panel Landscape Comic Strip %281%291.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\llnmlm.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\llnmlm1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\386445522_1560264201469877_7401652512946274803_n.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\384527697_288197124071625_7702703534551933066_n.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\llnmlm2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\chart-pie.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\book-bookmark.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\calendar.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\book-open.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\books.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\user-switch.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\user-circle %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\database.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\user-list.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\user-circle-plus.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\download.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\clock-clockwise.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\user-circle-gear.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\database %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\image17.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Logo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\shapedash.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\logo %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\logo %282%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.7.2">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4.7.2 %28x86 and x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\image2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\user-circle.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\user-circle-gear %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\circle-bold.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Logo.ico" />
+    <None Include="Resources\eye.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+</Project>

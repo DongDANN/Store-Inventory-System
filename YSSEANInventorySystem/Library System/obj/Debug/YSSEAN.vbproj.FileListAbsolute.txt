@@ -1,0 +1,178 @@
+C:\Users\Admin\Desktop\YSSEANS\Library System\Library System\obj\Debug\Library_System.AccountsManagement.resources
+C:\Users\Admin\Desktop\YSSEANS\Library System\Library System\obj\Debug\Library_System.AllProductsReport.resources
+C:\Users\Admin\Desktop\YSSEANS\Library System\Library System\obj\Debug\Library_System.AdminInterface.resources
+C:\Users\Admin\Desktop\YSSEANS\Library System\Library System\obj\Debug\Library_System.StockInReport.resources
+C:\Users\Admin\Desktop\YSSEANS\Library System\Library System\obj\Debug\Library_System.StockOutReport.resources
+C:\Users\Admin\Desktop\YSSEANS\Library System\Library System\obj\Debug\Library_System.Services_Print.resources
+C:\Users\Admin\Desktop\YSSEANS\Library System\Library System\obj\Debug\Library_System.Services_Xerox.resources
+C:\Users\Admin\Desktop\YSSEANS\Library System\Library System\obj\Debug\Library_System.Login.resources
+C:\Users\Admin\Desktop\YSSEANS\Library System\Library System\obj\Debug\Library_System.SplashArt.resources
+C:\Users\Admin\Desktop\YSSEANS\Library System\Library System\obj\Debug\Library_System.Resources.resources
+C:\Users\Admin\Desktop\YSSEANS\Library System\Library System\obj\Debug\Library_System.StaffsInterface.resources
+C:\Users\Admin\Desktop\YSSEANS\Library System\Library System\obj\Debug\Library_System.StockIn.resources
+C:\Users\Admin\Desktop\YSSEANS\Library System\Library System\obj\Debug\Library_System.StockOut.resources
+C:\Users\Admin\Desktop\YSSEANS\Library System\Library System\obj\Debug\YSSEAN.vbproj.GenerateResource.cache
+C:\Users\Admin\Desktop\YSSEANS\Library System\Library System\obj\Debug\YSSEAN.vbproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\YSSEANS\Library System\Library System\obj\Debug\YsseanGeneralMerchandiseInventorySystem.exe
+C:\Users\Admin\Desktop\YSSEANS\Library System\Library System\obj\Debug\YsseanGeneralMerchandiseInventorySystem.xml
+C:\Users\Admin\Desktop\YSSEANS\Library System\Library System\obj\Debug\YsseanGeneralMerchandiseInventorySystem.pdb
+C:\Users\Admin\Desktop\YSSEANS\Library System\Library System\bin\Debug\YsseanGeneralMerchandiseInventorySystem.exe.config
+C:\Users\Admin\Desktop\YSSEANS\Library System\Library System\bin\Debug\YsseanGeneralMerchandiseInventorySystem.exe
+C:\Users\Admin\Desktop\YSSEANS\Library System\Library System\bin\Debug\YsseanGeneralMerchandiseInventorySystem.pdb
+C:\Users\Admin\Desktop\YSSEANS\Library System\Library System\bin\Debug\YsseanGeneralMerchandiseInventorySystem.xml
+C:\Users\kate\Downloads\YSSEANS\Library System\Library System\bin\Debug\YsseanGeneralMerchandiseInventorySystem.exe.config
+C:\Users\kate\Downloads\YSSEANS\Library System\Library System\bin\Debug\YsseanGeneralMerchandiseInventorySystem.exe
+C:\Users\kate\Downloads\YSSEANS\Library System\Library System\bin\Debug\YsseanGeneralMerchandiseInventorySystem.pdb
+C:\Users\kate\Downloads\YSSEANS\Library System\Library System\bin\Debug\YsseanGeneralMerchandiseInventorySystem.xml
+C:\Users\kate\Downloads\YSSEANS\Library System\Library System\obj\Debug\YSSEAN.vbproj.AssemblyReference.cache
+C:\Users\kate\Downloads\YSSEANS\Library System\Library System\obj\Debug\Library_System.AccountsManagement.resources
+C:\Users\kate\Downloads\YSSEANS\Library System\Library System\obj\Debug\Library_System.AllProductsReport.resources
+C:\Users\kate\Downloads\YSSEANS\Library System\Library System\obj\Debug\Library_System.FirstTimeLogIn.resources
+C:\Users\kate\Downloads\YSSEANS\Library System\Library System\obj\Debug\Library_System.ForgotPassword.resources
+C:\Users\kate\Downloads\YSSEANS\Library System\Library System\obj\Debug\Library_System.ForgotPassword_1.resources
+C:\Users\kate\Downloads\YSSEANS\Library System\Library System\obj\Debug\Library_System.ForgotPassword_2.resources
+C:\Users\kate\Downloads\YSSEANS\Library System\Library System\obj\Debug\Library_System.AdminDashboard.resources
+C:\Users\kate\Downloads\YSSEANS\Library System\Library System\obj\Debug\Library_System.AdminInterface.resources
+C:\Users\kate\Downloads\YSSEANS\Library System\Library System\obj\Debug\Library_System.AdminMyAccount.resources
+C:\Users\kate\Downloads\YSSEANS\Library System\Library System\obj\Debug\Library_System.StockInReport.resources
+C:\Users\kate\Downloads\YSSEANS\Library System\Library System\obj\Debug\Library_System.StockOutReport.resources
+C:\Users\kate\Downloads\YSSEANS\Library System\Library System\obj\Debug\Library_System.Services_Print.resources
+C:\Users\kate\Downloads\YSSEANS\Library System\Library System\obj\Debug\Library_System.Services_Xerox.resources
+C:\Users\kate\Downloads\YSSEANS\Library System\Library System\obj\Debug\Library_System.StaffDashboard.resources
+C:\Users\kate\Downloads\YSSEANS\Library System\Library System\obj\Debug\Library_System.StaffInterface.resources
+C:\Users\kate\Downloads\YSSEANS\Library System\Library System\obj\Debug\Library_System.Login.resources
+C:\Users\kate\Downloads\YSSEANS\Library System\Library System\obj\Debug\Library_System.StaffMyAccount.resources
+C:\Users\kate\Downloads\YSSEANS\Library System\Library System\obj\Debug\Library_System.StaffProductManagement.resources
+C:\Users\kate\Downloads\YSSEANS\Library System\Library System\obj\Debug\Library_System.StaffServiceManagement.resources
+C:\Users\kate\Downloads\YSSEANS\Library System\Library System\obj\Debug\Library_System.SplashArt.resources
+C:\Users\kate\Downloads\YSSEANS\Library System\Library System\obj\Debug\Library_System.Resources.resources
+C:\Users\kate\Downloads\YSSEANS\Library System\Library System\obj\Debug\Library_System.StaffsInterface.resources
+C:\Users\kate\Downloads\YSSEANS\Library System\Library System\obj\Debug\Library_System.StockIn.resources
+C:\Users\kate\Downloads\YSSEANS\Library System\Library System\obj\Debug\Library_System.StockOut.resources
+C:\Users\kate\Downloads\YSSEANS\Library System\Library System\obj\Debug\YSSEAN.vbproj.GenerateResource.cache
+C:\Users\kate\Downloads\YSSEANS\Library System\Library System\obj\Debug\YSSEAN.vbproj.CoreCompileInputs.cache
+C:\Users\kate\Downloads\YSSEANS\Library System\Library System\obj\Debug\YsseanGeneralMerchandiseInventorySystem.exe
+C:\Users\kate\Downloads\YSSEANS\Library System\Library System\obj\Debug\YsseanGeneralMerchandiseInventorySystem.xml
+C:\Users\kate\Downloads\YSSEANS\Library System\Library System\obj\Debug\YsseanGeneralMerchandiseInventorySystem.pdb
+C:\Users\Admin\Desktop\YSSEANS.rar-20231202T011657Z-001\YSSEANS\Library System\Library System\bin\Debug\YsseanGeneralMerchandiseInventorySystem.exe.config
+C:\Users\Admin\Desktop\YSSEANS.rar-20231202T011657Z-001\YSSEANS\Library System\Library System\bin\Debug\YsseanGeneralMerchandiseInventorySystem.exe
+C:\Users\Admin\Desktop\YSSEANS.rar-20231202T011657Z-001\YSSEANS\Library System\Library System\bin\Debug\YsseanGeneralMerchandiseInventorySystem.pdb
+C:\Users\Admin\Desktop\YSSEANS.rar-20231202T011657Z-001\YSSEANS\Library System\Library System\bin\Debug\YsseanGeneralMerchandiseInventorySystem.xml
+C:\Users\Admin\Desktop\YSSEANS.rar-20231202T011657Z-001\YSSEANS\Library System\Library System\obj\Debug\YSSEAN.vbproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\YSSEANS.rar-20231202T011657Z-001\YSSEANS\Library System\Library System\obj\Debug\Library_System.AccountsManagement.resources
+C:\Users\Admin\Desktop\YSSEANS.rar-20231202T011657Z-001\YSSEANS\Library System\Library System\obj\Debug\Library_System.AllProductsReport.resources
+C:\Users\Admin\Desktop\YSSEANS.rar-20231202T011657Z-001\YSSEANS\Library System\Library System\obj\Debug\Library_System.AdminInterface.resources
+C:\Users\Admin\Desktop\YSSEANS.rar-20231202T011657Z-001\YSSEANS\Library System\Library System\obj\Debug\Library_System.StockInReport.resources
+C:\Users\Admin\Desktop\YSSEANS.rar-20231202T011657Z-001\YSSEANS\Library System\Library System\obj\Debug\Library_System.StockOutReport.resources
+C:\Users\Admin\Desktop\YSSEANS.rar-20231202T011657Z-001\YSSEANS\Library System\Library System\obj\Debug\Library_System.Services_Print.resources
+C:\Users\Admin\Desktop\YSSEANS.rar-20231202T011657Z-001\YSSEANS\Library System\Library System\obj\Debug\Library_System.Services_Xerox.resources
+C:\Users\Admin\Desktop\YSSEANS.rar-20231202T011657Z-001\YSSEANS\Library System\Library System\obj\Debug\Library_System.Login.resources
+C:\Users\Admin\Desktop\YSSEANS.rar-20231202T011657Z-001\YSSEANS\Library System\Library System\obj\Debug\Library_System.SplashArt.resources
+C:\Users\Admin\Desktop\YSSEANS.rar-20231202T011657Z-001\YSSEANS\Library System\Library System\obj\Debug\Library_System.Resources.resources
+C:\Users\Admin\Desktop\YSSEANS.rar-20231202T011657Z-001\YSSEANS\Library System\Library System\obj\Debug\Library_System.StaffsInterface.resources
+C:\Users\Admin\Desktop\YSSEANS.rar-20231202T011657Z-001\YSSEANS\Library System\Library System\obj\Debug\Library_System.StockIn.resources
+C:\Users\Admin\Desktop\YSSEANS.rar-20231202T011657Z-001\YSSEANS\Library System\Library System\obj\Debug\Library_System.StockOut.resources
+C:\Users\Admin\Desktop\YSSEANS.rar-20231202T011657Z-001\YSSEANS\Library System\Library System\obj\Debug\YSSEAN.vbproj.GenerateResource.cache
+C:\Users\Admin\Desktop\YSSEANS.rar-20231202T011657Z-001\YSSEANS\Library System\Library System\obj\Debug\YSSEAN.vbproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\YSSEANS.rar-20231202T011657Z-001\YSSEANS\Library System\Library System\obj\Debug\YsseanGeneralMerchandiseInventorySystem.exe
+C:\Users\Admin\Desktop\YSSEANS.rar-20231202T011657Z-001\YSSEANS\Library System\Library System\obj\Debug\YsseanGeneralMerchandiseInventorySystem.xml
+C:\Users\Admin\Desktop\YSSEANS.rar-20231202T011657Z-001\YSSEANS\Library System\Library System\obj\Debug\YsseanGeneralMerchandiseInventorySystem.pdb
+C:\Users\Admin\Desktop\YSSEANS.rar-20231202T011657Z-001\YSSEANS\Library System\Library System\obj\Debug\Library_System.LogInAs.resources
+C:\Users\Admin\Desktop\YSSEANS.rar-20231202T011657Z-001\YSSEANS\Library System\Library System\obj\Debug\Library_System.PendingRequests.resources
+C:\Users\Admin\Desktop\YSSEANS.rar-20231202T011657Z-001\YSSEANS\Library System\Library System\obj\Debug\Library_System.AccountsDashboard.resources
+C:\Users\Admin\Desktop\YSSEANS.rar-20231202T011657Z-001\YSSEANS\Library System\Library System\obj\Debug\Library_System.ProductsDashboard.resources
+C:\Users\Admin\Desktop\YSSEANS.rar-20231202T011657Z-001\YSSEANS\Library System\Library System\obj\Debug\Library_System.ProductManagement.resources
+C:\Users\Admin\Desktop\YSSEANS.rar-20231202T011657Z-001\YSSEANS\Library System\Library System\obj\Debug\Library_System.ServiceManagement.resources
+C:\Users\Admin\Desktop\YSSEANS.rar-20231202T011657Z-001\YSSEANS\Library System\Library System\obj\Debug\Library_System.MerchandiseNew.resources
+C:\Users\Admin\Desktop\YSSEANS.rar-20231202T011657Z-001\YSSEANS\Library System\Library System\obj\Debug\Library_System.MerchandiseEdit.resources
+C:\Users\Admin\Desktop\YSSEANS.rar-20231202T011657Z-001\YSSEANS\Library System\Library System\obj\Debug\Library_System.LogInAdmin.resources
+C:\Users\Admin\Desktop\YSSEANS.rar-20231202T011657Z-001\YSSEANS\Library System\Library System\bin\Debug\YsseanGeneralMerchandiseInventorySystem.exe.manifest
+C:\Users\Admin\Desktop\YSSEANS.rar-20231202T011657Z-001\YSSEANS\Library System\Library System\bin\Debug\YsseanGeneralMerchandiseInventorySystem.application
+C:\Users\Admin\Desktop\YSSEANS.rar-20231202T011657Z-001\YSSEANS\Library System\Library System\obj\Debug\YsseanGeneralMerchandiseInventorySystem.exe.manifest
+C:\Users\Admin\Desktop\YSSEANS.rar-20231202T011657Z-001\YSSEANS\Library System\Library System\obj\Debug\YsseanGeneralMerchandiseInventorySystem.application
+C:\Users\Admin\Desktop\YSSEANS\Library System\Library System\bin\Debug\YsseanGeneralMerchandiseInventorySystem.exe.manifest
+C:\Users\Admin\Desktop\YSSEANS\Library System\Library System\bin\Debug\YsseanGeneralMerchandiseInventorySystem.application
+C:\Users\Admin\Desktop\YSSEANS\Library System\Library System\obj\Debug\YSSEAN.vbproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\YSSEANS\Library System\Library System\obj\Debug\Library_System.LogInAdmin.resources
+C:\Users\Admin\Desktop\YSSEANS\Library System\Library System\obj\Debug\Library_System.LogInAs.resources
+C:\Users\Admin\Desktop\YSSEANS\Library System\Library System\obj\Debug\Library_System.AccountsDashboard.resources
+C:\Users\Admin\Desktop\YSSEANS\Library System\Library System\obj\Debug\Library_System.PendingRequests.resources
+C:\Users\Admin\Desktop\YSSEANS\Library System\Library System\obj\Debug\Library_System.ProductsDashboard.resources
+C:\Users\Admin\Desktop\YSSEANS\Library System\Library System\obj\Debug\Library_System.ProductManagement.resources
+C:\Users\Admin\Desktop\YSSEANS\Library System\Library System\obj\Debug\Library_System.ServiceManagement.resources
+C:\Users\Admin\Desktop\YSSEANS\Library System\Library System\obj\Debug\Library_System.MerchandiseEdit.resources
+C:\Users\Admin\Desktop\YSSEANS\Library System\Library System\obj\Debug\Library_System.MerchandiseNew.resources
+C:\Users\Admin\Desktop\YSSEANS\Library System\Library System\obj\Debug\YsseanGeneralMerchandiseInventorySystem.exe.manifest
+C:\Users\Admin\Desktop\YSSEANS\Library System\Library System\obj\Debug\YsseanGeneralMerchandiseInventorySystem.application
+C:\Users\kate\OneDrive\Desktop\YSSEANS\Library System\Library System\bin\Debug\YsseanGeneralMerchandiseInventorySystem.exe.config
+C:\Users\kate\OneDrive\Desktop\YSSEANS\Library System\Library System\bin\Debug\YsseanGeneralMerchandiseInventorySystem.exe.manifest
+C:\Users\kate\OneDrive\Desktop\YSSEANS\Library System\Library System\bin\Debug\YsseanGeneralMerchandiseInventorySystem.application
+C:\Users\kate\OneDrive\Desktop\YSSEANS\Library System\Library System\bin\Debug\YsseanGeneralMerchandiseInventorySystem.exe
+C:\Users\kate\OneDrive\Desktop\YSSEANS\Library System\Library System\bin\Debug\YsseanGeneralMerchandiseInventorySystem.pdb
+C:\Users\kate\OneDrive\Desktop\YSSEANS\Library System\Library System\bin\Debug\YsseanGeneralMerchandiseInventorySystem.xml
+C:\Users\kate\OneDrive\Desktop\YSSEANS\Library System\Library System\obj\Debug\YSSEAN.vbproj.AssemblyReference.cache
+C:\Users\kate\OneDrive\Desktop\YSSEANS\Library System\Library System\obj\Debug\Library_System.AccountsManagement.resources
+C:\Users\kate\OneDrive\Desktop\YSSEANS\Library System\Library System\obj\Debug\Library_System.LogInAdmin.resources
+C:\Users\kate\OneDrive\Desktop\YSSEANS\Library System\Library System\obj\Debug\Library_System.LogInAs.resources
+C:\Users\kate\OneDrive\Desktop\YSSEANS\Library System\Library System\obj\Debug\Library_System.AllProductsReport.resources
+C:\Users\kate\OneDrive\Desktop\YSSEANS\Library System\Library System\obj\Debug\Library_System.AccountsDashboard.resources
+C:\Users\kate\OneDrive\Desktop\YSSEANS\Library System\Library System\obj\Debug\Library_System.AdminInterface.resources
+C:\Users\kate\OneDrive\Desktop\YSSEANS\Library System\Library System\obj\Debug\Library_System.PendingRequests.resources
+C:\Users\kate\OneDrive\Desktop\YSSEANS\Library System\Library System\obj\Debug\Library_System.StockInReport.resources
+C:\Users\kate\OneDrive\Desktop\YSSEANS\Library System\Library System\obj\Debug\Library_System.StockOutReport.resources
+C:\Users\kate\OneDrive\Desktop\YSSEANS\Library System\Library System\obj\Debug\Library_System.Services_Print.resources
+C:\Users\kate\OneDrive\Desktop\YSSEANS\Library System\Library System\obj\Debug\Library_System.Services_Xerox.resources
+C:\Users\kate\OneDrive\Desktop\YSSEANS\Library System\Library System\obj\Debug\Library_System.ProductsDashboard.resources
+C:\Users\kate\OneDrive\Desktop\YSSEANS\Library System\Library System\obj\Debug\Library_System.Login.resources
+C:\Users\kate\OneDrive\Desktop\YSSEANS\Library System\Library System\obj\Debug\Library_System.ProductManagement.resources
+C:\Users\kate\OneDrive\Desktop\YSSEANS\Library System\Library System\obj\Debug\Library_System.ServiceManagement.resources
+C:\Users\kate\OneDrive\Desktop\YSSEANS\Library System\Library System\obj\Debug\Library_System.SplashArt.resources
+C:\Users\kate\OneDrive\Desktop\YSSEANS\Library System\Library System\obj\Debug\Library_System.Resources.resources
+C:\Users\kate\OneDrive\Desktop\YSSEANS\Library System\Library System\obj\Debug\Library_System.StaffsInterface.resources
+C:\Users\kate\OneDrive\Desktop\YSSEANS\Library System\Library System\obj\Debug\Library_System.StockIn.resources
+C:\Users\kate\OneDrive\Desktop\YSSEANS\Library System\Library System\obj\Debug\Library_System.StockOut.resources
+C:\Users\kate\OneDrive\Desktop\YSSEANS\Library System\Library System\obj\Debug\Library_System.MerchandiseEdit.resources
+C:\Users\kate\OneDrive\Desktop\YSSEANS\Library System\Library System\obj\Debug\Library_System.MerchandiseNew.resources
+C:\Users\kate\OneDrive\Desktop\YSSEANS\Library System\Library System\obj\Debug\YSSEAN.vbproj.GenerateResource.cache
+C:\Users\kate\OneDrive\Desktop\YSSEANS\Library System\Library System\obj\Debug\YSSEAN.vbproj.CoreCompileInputs.cache
+C:\Users\kate\OneDrive\Desktop\YSSEANS\Library System\Library System\obj\Debug\YsseanGeneralMerchandiseInventorySystem.exe.manifest
+C:\Users\kate\OneDrive\Desktop\YSSEANS\Library System\Library System\obj\Debug\YsseanGeneralMerchandiseInventorySystem.application
+C:\Users\kate\OneDrive\Desktop\YSSEANS\Library System\Library System\obj\Debug\YsseanGeneralMerchandiseInventorySystem.exe
+C:\Users\kate\OneDrive\Desktop\YSSEANS\Library System\Library System\obj\Debug\YsseanGeneralMerchandiseInventorySystem.xml
+C:\Users\kate\OneDrive\Desktop\YSSEANS\Library System\Library System\obj\Debug\YsseanGeneralMerchandiseInventorySystem.pdb
+C:\Users\Admin\Desktop\YSSEANS - Copy\Library System\Library System\bin\Debug\YsseanGeneralMerchandiseInventorySystem.exe.config
+C:\Users\Admin\Desktop\YSSEANS - Copy\Library System\Library System\bin\Debug\YsseanGeneralMerchandiseInventorySystem.exe.manifest
+C:\Users\Admin\Desktop\YSSEANS - Copy\Library System\Library System\bin\Debug\YsseanGeneralMerchandiseInventorySystem.application
+C:\Users\Admin\Desktop\YSSEANS - Copy\Library System\Library System\bin\Debug\YsseanGeneralMerchandiseInventorySystem.exe
+C:\Users\Admin\Desktop\YSSEANS - Copy\Library System\Library System\bin\Debug\YsseanGeneralMerchandiseInventorySystem.pdb
+C:\Users\Admin\Desktop\YSSEANS - Copy\Library System\Library System\bin\Debug\YsseanGeneralMerchandiseInventorySystem.xml
+C:\Users\Admin\Desktop\YSSEANS - Copy\Library System\Library System\obj\Debug\YSSEAN.vbproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\YSSEANS - Copy\Library System\Library System\obj\Debug\Library_System.AccountsManagement.resources
+C:\Users\Admin\Desktop\YSSEANS - Copy\Library System\Library System\obj\Debug\Library_System.LogInAdmin.resources
+C:\Users\Admin\Desktop\YSSEANS - Copy\Library System\Library System\obj\Debug\Library_System.LogInAs.resources
+C:\Users\Admin\Desktop\YSSEANS - Copy\Library System\Library System\obj\Debug\Library_System.AllProductsReport.resources
+C:\Users\Admin\Desktop\YSSEANS - Copy\Library System\Library System\obj\Debug\Library_System.AccountsDashboard.resources
+C:\Users\Admin\Desktop\YSSEANS - Copy\Library System\Library System\obj\Debug\Library_System.AdminInterface.resources
+C:\Users\Admin\Desktop\YSSEANS - Copy\Library System\Library System\obj\Debug\Library_System.PendingRequests.resources
+C:\Users\Admin\Desktop\YSSEANS - Copy\Library System\Library System\obj\Debug\Library_System.StockInReport.resources
+C:\Users\Admin\Desktop\YSSEANS - Copy\Library System\Library System\obj\Debug\Library_System.StockOutReport.resources
+C:\Users\Admin\Desktop\YSSEANS - Copy\Library System\Library System\obj\Debug\Library_System.Services_Print.resources
+C:\Users\Admin\Desktop\YSSEANS - Copy\Library System\Library System\obj\Debug\Library_System.Services_Xerox.resources
+C:\Users\Admin\Desktop\YSSEANS - Copy\Library System\Library System\obj\Debug\Library_System.ProductsDashboard.resources
+C:\Users\Admin\Desktop\YSSEANS - Copy\Library System\Library System\obj\Debug\Library_System.Login.resources
+C:\Users\Admin\Desktop\YSSEANS - Copy\Library System\Library System\obj\Debug\Library_System.ProductManagement.resources
+C:\Users\Admin\Desktop\YSSEANS - Copy\Library System\Library System\obj\Debug\Library_System.ServiceManagement.resources
+C:\Users\Admin\Desktop\YSSEANS - Copy\Library System\Library System\obj\Debug\Library_System.SplashArt.resources
+C:\Users\Admin\Desktop\YSSEANS - Copy\Library System\Library System\obj\Debug\Library_System.Resources.resources
+C:\Users\Admin\Desktop\YSSEANS - Copy\Library System\Library System\obj\Debug\Library_System.StaffsInterface.resources
+C:\Users\Admin\Desktop\YSSEANS - Copy\Library System\Library System\obj\Debug\Library_System.StockIn.resources
+C:\Users\Admin\Desktop\YSSEANS - Copy\Library System\Library System\obj\Debug\Library_System.StockOut.resources
+C:\Users\Admin\Desktop\YSSEANS - Copy\Library System\Library System\obj\Debug\Library_System.MerchandiseEdit.resources
+C:\Users\Admin\Desktop\YSSEANS - Copy\Library System\Library System\obj\Debug\Library_System.MerchandiseNew.resources
+C:\Users\Admin\Desktop\YSSEANS - Copy\Library System\Library System\obj\Debug\YSSEAN.vbproj.GenerateResource.cache
+C:\Users\Admin\Desktop\YSSEANS - Copy\Library System\Library System\obj\Debug\YSSEAN.vbproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\YSSEANS - Copy\Library System\Library System\obj\Debug\YsseanGeneralMerchandiseInventorySystem.exe.manifest
+C:\Users\Admin\Desktop\YSSEANS - Copy\Library System\Library System\obj\Debug\YsseanGeneralMerchandiseInventorySystem.application
+C:\Users\Admin\Desktop\YSSEANS - Copy\Library System\Library System\obj\Debug\YsseanGeneralMerchandiseInventorySystem.exe
+C:\Users\Admin\Desktop\YSSEANS - Copy\Library System\Library System\obj\Debug\YsseanGeneralMerchandiseInventorySystem.xml
+C:\Users\Admin\Desktop\YSSEANS - Copy\Library System\Library System\obj\Debug\YsseanGeneralMerchandiseInventorySystem.pdb

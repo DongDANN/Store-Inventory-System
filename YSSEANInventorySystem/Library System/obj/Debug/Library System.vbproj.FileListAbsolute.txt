@@ -1,0 +1,226 @@
+C:\Users\Admin\source\repos\Library System\Library System\bin\Debug\Library System.exe.config
+C:\Users\Admin\source\repos\Library System\Library System\bin\Debug\Library System.exe
+C:\Users\Admin\source\repos\Library System\Library System\bin\Debug\Library System.pdb
+C:\Users\Admin\source\repos\Library System\Library System\bin\Debug\Library System.xml
+C:\Users\Admin\source\repos\Library System\Library System\obj\Debug\Library System.vbproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\Library System\Library System\obj\Debug\Library_System.LogInMenu.resources
+C:\Users\Admin\source\repos\Library System\Library System\obj\Debug\Library_System.SplashArt.resources
+C:\Users\Admin\source\repos\Library System\Library System\obj\Debug\Library_System.Resources.resources
+C:\Users\Admin\source\repos\Library System\Library System\obj\Debug\Library System.vbproj.GenerateResource.cache
+C:\Users\Admin\source\repos\Library System\Library System\obj\Debug\Library System.vbproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Library System\Library System\obj\Debug\Library System.exe
+C:\Users\Admin\source\repos\Library System\Library System\obj\Debug\Library System.xml
+C:\Users\Admin\source\repos\Library System\Library System\obj\Debug\Library System.pdb
+C:\Users\Admin\source\repos\Library System\Library System\obj\Debug\Library_System.AdminLogin.resources
+C:\Users\Admin\source\repos\Library System\Library System\obj\Debug\Library_System.AdminView.resources
+C:\Users\Admin\source\repos\Library System\Library System\obj\Debug\Library_System.StudentLogin.resources
+C:\Users\Admin\source\repos\Library System\Library System\obj\Debug\Library_System.StudentView.resources
+C:\Users\Admin\source\repos\Library System\Library System\obj\Debug\Library_System.AllBooks.resources
+C:\Users\Admin\source\repos\Library System\Library System\obj\Debug\Library_System.WelcomeToAdminView.resources
+C:\Users\Admin\source\repos\Library System\Library System\obj\Debug\Library_System.WelcomeToStudentView.resources
+C:\Users\Admin\source\repos\Library System\Library System\obj\Debug\Library_System.AdminRentedBooks.resources
+C:\Users\Admin\source\repos\Library System\Library System\obj\Debug\Library_System.AdminBookManagement.resources
+C:\Users\Admin\source\repos\Library System\Library System\obj\Debug\Library_System.AdminBookIssuing.resources
+C:\Users\Admin\source\repos\Library System\Library System\obj\Debug\Library_System.StudentBookIssuing.resources
+C:\Users\Admin\source\repos\Library System\Library System\obj\Debug\Library_System.AdminStudentsRecord.resources
+C:\Users\Admin\source\repos\Library System Group 8\Library System\bin\Debug\Library System.exe.config
+C:\Users\Admin\source\repos\Library System Group 8\Library System\bin\Debug\Library System.exe
+C:\Users\Admin\source\repos\Library System Group 8\Library System\bin\Debug\Library System.pdb
+C:\Users\Admin\source\repos\Library System Group 8\Library System\bin\Debug\Library System.xml
+C:\Users\Admin\source\repos\Library System Group 8\Library System\obj\Debug\Library System.vbproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\Library System Group 8\Library System\obj\Debug\Library_System.AdminLogin.resources
+C:\Users\Admin\source\repos\Library System Group 8\Library System\obj\Debug\Library_System.AdminView.resources
+C:\Users\Admin\source\repos\Library System Group 8\Library System\obj\Debug\Library_System.AllBooks.resources
+C:\Users\Admin\source\repos\Library System Group 8\Library System\obj\Debug\Library_System.AdminRentedBooks.resources
+C:\Users\Admin\source\repos\Library System Group 8\Library System\obj\Debug\Library_System.AdminBookManagement.resources
+C:\Users\Admin\source\repos\Library System Group 8\Library System\obj\Debug\Library_System.AdminBookIssuing.resources
+C:\Users\Admin\source\repos\Library System Group 8\Library System\obj\Debug\Library_System.LogInMenu.resources
+C:\Users\Admin\source\repos\Library System Group 8\Library System\obj\Debug\Library_System.SplashArt.resources
+C:\Users\Admin\source\repos\Library System Group 8\Library System\obj\Debug\Library_System.Resources.resources
+C:\Users\Admin\source\repos\Library System Group 8\Library System\obj\Debug\Library_System.StudentBookIssuing.resources
+C:\Users\Admin\source\repos\Library System Group 8\Library System\obj\Debug\Library_System.StudentLogin.resources
+C:\Users\Admin\source\repos\Library System Group 8\Library System\obj\Debug\Library_System.AdminStudentsRecord.resources
+C:\Users\Admin\source\repos\Library System Group 8\Library System\obj\Debug\Library_System.StudentView.resources
+C:\Users\Admin\source\repos\Library System Group 8\Library System\obj\Debug\Library_System.WelcomeToAdminView.resources
+C:\Users\Admin\source\repos\Library System Group 8\Library System\obj\Debug\Library_System.WelcomeToStudentView.resources
+C:\Users\Admin\source\repos\Library System Group 8\Library System\obj\Debug\Library System.vbproj.GenerateResource.cache
+C:\Users\Admin\source\repos\Library System Group 8\Library System\obj\Debug\Library System.vbproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Library System Group 8\Library System\obj\Debug\Library System.exe
+C:\Users\Admin\source\repos\Library System Group 8\Library System\obj\Debug\Library System.xml
+C:\Users\Admin\source\repos\Library System Group 8\Library System\obj\Debug\Library System.pdb
+C:\Users\Admin\Downloads\Library System Group 8\Library System Group 8\Library System\bin\Debug\Library System.exe.config
+C:\Users\Admin\Downloads\Library System Group 8\Library System Group 8\Library System\bin\Debug\Library System.exe
+C:\Users\Admin\Downloads\Library System Group 8\Library System Group 8\Library System\bin\Debug\Library System.pdb
+C:\Users\Admin\Downloads\Library System Group 8\Library System Group 8\Library System\bin\Debug\Library System.xml
+C:\Users\Admin\Downloads\Library System Group 8\Library System Group 8\Library System\obj\Debug\Library System.vbproj.AssemblyReference.cache
+C:\Users\Admin\Downloads\Library System Group 8\Library System Group 8\Library System\obj\Debug\Library_System.AdminLogin.resources
+C:\Users\Admin\Downloads\Library System Group 8\Library System Group 8\Library System\obj\Debug\Library_System.AdminView.resources
+C:\Users\Admin\Downloads\Library System Group 8\Library System Group 8\Library System\obj\Debug\Library_System.AllBooks.resources
+C:\Users\Admin\Downloads\Library System Group 8\Library System Group 8\Library System\obj\Debug\Library_System.AdminRentedBooks.resources
+C:\Users\Admin\Downloads\Library System Group 8\Library System Group 8\Library System\obj\Debug\Library_System.AdminBookManagement.resources
+C:\Users\Admin\Downloads\Library System Group 8\Library System Group 8\Library System\obj\Debug\Library_System.AdminBookIssuing.resources
+C:\Users\Admin\Downloads\Library System Group 8\Library System Group 8\Library System\obj\Debug\Library_System.LogInMenu.resources
+C:\Users\Admin\Downloads\Library System Group 8\Library System Group 8\Library System\obj\Debug\Library_System.SplashArt.resources
+C:\Users\Admin\Downloads\Library System Group 8\Library System Group 8\Library System\obj\Debug\Library_System.Resources.resources
+C:\Users\Admin\Downloads\Library System Group 8\Library System Group 8\Library System\obj\Debug\Library_System.StudentBookIssuing.resources
+C:\Users\Admin\Downloads\Library System Group 8\Library System Group 8\Library System\obj\Debug\Library_System.StudentLogin.resources
+C:\Users\Admin\Downloads\Library System Group 8\Library System Group 8\Library System\obj\Debug\Library_System.AdminStudentsRecord.resources
+C:\Users\Admin\Downloads\Library System Group 8\Library System Group 8\Library System\obj\Debug\Library_System.StudentView.resources
+C:\Users\Admin\Downloads\Library System Group 8\Library System Group 8\Library System\obj\Debug\Library_System.WelcomeToAdminView.resources
+C:\Users\Admin\Downloads\Library System Group 8\Library System Group 8\Library System\obj\Debug\Library_System.WelcomeToStudentView.resources
+C:\Users\Admin\Downloads\Library System Group 8\Library System Group 8\Library System\obj\Debug\Library System.vbproj.GenerateResource.cache
+C:\Users\Admin\Downloads\Library System Group 8\Library System Group 8\Library System\obj\Debug\Library System.vbproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\Library System Group 8\Library System Group 8\Library System\obj\Debug\Library System.exe
+C:\Users\Admin\Downloads\Library System Group 8\Library System Group 8\Library System\obj\Debug\Library System.xml
+C:\Users\Admin\Downloads\Library System Group 8\Library System Group 8\Library System\obj\Debug\Library System.pdb
+S:\Download\Programs\Apostol\library group 8\Library System\bin\Debug\Library System.exe.config
+S:\Download\Programs\Apostol\library group 8\Library System\bin\Debug\Library System.exe
+S:\Download\Programs\Apostol\library group 8\Library System\bin\Debug\Library System.pdb
+S:\Download\Programs\Apostol\library group 8\Library System\bin\Debug\Library System.xml
+S:\Download\Programs\Apostol\library group 8\Library System\obj\Debug\Library System.vbproj.AssemblyReference.cache
+S:\Download\Programs\Apostol\library group 8\Library System\obj\Debug\Library_System.AdminLogin.resources
+S:\Download\Programs\Apostol\library group 8\Library System\obj\Debug\Library_System.AdminView.resources
+S:\Download\Programs\Apostol\library group 8\Library System\obj\Debug\Library_System.AllBooks.resources
+S:\Download\Programs\Apostol\library group 8\Library System\obj\Debug\Library_System.AdminRentedBooks.resources
+S:\Download\Programs\Apostol\library group 8\Library System\obj\Debug\Library_System.AdminBookManagement.resources
+S:\Download\Programs\Apostol\library group 8\Library System\obj\Debug\Library_System.AdminBookIssuing.resources
+S:\Download\Programs\Apostol\library group 8\Library System\obj\Debug\Library_System.LogInMenu.resources
+S:\Download\Programs\Apostol\library group 8\Library System\obj\Debug\Library_System.SplashArt.resources
+S:\Download\Programs\Apostol\library group 8\Library System\obj\Debug\Library_System.Resources.resources
+S:\Download\Programs\Apostol\library group 8\Library System\obj\Debug\Library_System.StudentBookIssuing.resources
+S:\Download\Programs\Apostol\library group 8\Library System\obj\Debug\Library_System.StudentLogin.resources
+S:\Download\Programs\Apostol\library group 8\Library System\obj\Debug\Library_System.AdminStudentsRecord.resources
+S:\Download\Programs\Apostol\library group 8\Library System\obj\Debug\Library_System.StudentView.resources
+S:\Download\Programs\Apostol\library group 8\Library System\obj\Debug\Library_System.WelcomeToAdminView.resources
+S:\Download\Programs\Apostol\library group 8\Library System\obj\Debug\Library_System.WelcomeToStudentView.resources
+S:\Download\Programs\Apostol\library group 8\Library System\obj\Debug\Library System.vbproj.GenerateResource.cache
+S:\Download\Programs\Apostol\library group 8\Library System\obj\Debug\Library System.vbproj.CoreCompileInputs.cache
+S:\Download\Programs\Apostol\library group 8\Library System\obj\Debug\Library System.exe
+S:\Download\Programs\Apostol\library group 8\Library System\obj\Debug\Library System.xml
+S:\Download\Programs\Apostol\library group 8\Library System\obj\Debug\Library System.pdb
+S:\Download\Programs\Library System-20231002T113257Z-001\Library System\Library System\bin\Debug\Library System.exe.config
+S:\Download\Programs\Library System-20231002T113257Z-001\Library System\Library System\bin\Debug\Library System.exe
+S:\Download\Programs\Library System-20231002T113257Z-001\Library System\Library System\bin\Debug\Library System.pdb
+S:\Download\Programs\Library System-20231002T113257Z-001\Library System\Library System\bin\Debug\Library System.xml
+S:\Download\Programs\Library System-20231002T113257Z-001\Library System\Library System\obj\Debug\Library System.vbproj.AssemblyReference.cache
+S:\Download\Programs\Library System-20231002T113257Z-001\Library System\Library System\obj\Debug\Library_System.AdminLogin.resources
+S:\Download\Programs\Library System-20231002T113257Z-001\Library System\Library System\obj\Debug\Library_System.AdminView.resources
+S:\Download\Programs\Library System-20231002T113257Z-001\Library System\Library System\obj\Debug\Library_System.AllBooks.resources
+S:\Download\Programs\Library System-20231002T113257Z-001\Library System\Library System\obj\Debug\Library_System.AdminRentedBooks.resources
+S:\Download\Programs\Library System-20231002T113257Z-001\Library System\Library System\obj\Debug\Library_System.AdminBookManagement.resources
+S:\Download\Programs\Library System-20231002T113257Z-001\Library System\Library System\obj\Debug\Library_System.AdminBookIssuing.resources
+S:\Download\Programs\Library System-20231002T113257Z-001\Library System\Library System\obj\Debug\Library_System.LogInMenu.resources
+S:\Download\Programs\Library System-20231002T113257Z-001\Library System\Library System\obj\Debug\Library_System.SplashArt.resources
+S:\Download\Programs\Library System-20231002T113257Z-001\Library System\Library System\obj\Debug\Library_System.Resources.resources
+S:\Download\Programs\Library System-20231002T113257Z-001\Library System\Library System\obj\Debug\Library_System.StudentBookIssuing.resources
+S:\Download\Programs\Library System-20231002T113257Z-001\Library System\Library System\obj\Debug\Library_System.StudentLogin.resources
+S:\Download\Programs\Library System-20231002T113257Z-001\Library System\Library System\obj\Debug\Library_System.AdminStudentsRecord.resources
+S:\Download\Programs\Library System-20231002T113257Z-001\Library System\Library System\obj\Debug\Library_System.StudentView.resources
+S:\Download\Programs\Library System-20231002T113257Z-001\Library System\Library System\obj\Debug\Library_System.WelcomeToAdminView.resources
+S:\Download\Programs\Library System-20231002T113257Z-001\Library System\Library System\obj\Debug\Library_System.WelcomeToStudentView.resources
+S:\Download\Programs\Library System-20231002T113257Z-001\Library System\Library System\obj\Debug\Library System.vbproj.GenerateResource.cache
+S:\Download\Programs\Library System-20231002T113257Z-001\Library System\Library System\obj\Debug\Library System.vbproj.CoreCompileInputs.cache
+S:\Download\Programs\Library System-20231002T113257Z-001\Library System\Library System\obj\Debug\Library System.exe
+S:\Download\Programs\Library System-20231002T113257Z-001\Library System\Library System\obj\Debug\Library System.xml
+S:\Download\Programs\Library System-20231002T113257Z-001\Library System\Library System\obj\Debug\Library System.pdb
+S:\Download\Programs\Library System-20231002T113257Z-001\Library System\Library System\obj\Debug\Library_System.AnimatedStudentViewTrial.resources
+S:\Download\Programs\FrontEndLibrarySystem\Library System Group8\Library System\Library System\bin\Debug\Library System.exe.config
+S:\Download\Programs\FrontEndLibrarySystem\Library System Group8\Library System\Library System\bin\Debug\Library System.exe
+S:\Download\Programs\FrontEndLibrarySystem\Library System Group8\Library System\Library System\bin\Debug\Library System.pdb
+S:\Download\Programs\FrontEndLibrarySystem\Library System Group8\Library System\Library System\bin\Debug\Library System.xml
+S:\Download\Programs\FrontEndLibrarySystem\Library System Group8\Library System\Library System\obj\Debug\Library System.vbproj.AssemblyReference.cache
+S:\Download\Programs\FrontEndLibrarySystem\Library System Group8\Library System\Library System\obj\Debug\Library_System.AllBooks.resources
+S:\Download\Programs\FrontEndLibrarySystem\Library System Group8\Library System\Library System\obj\Debug\Library_System.SplashArt.resources
+S:\Download\Programs\FrontEndLibrarySystem\Library System Group8\Library System\Library System\obj\Debug\Library_System.Resources.resources
+S:\Download\Programs\FrontEndLibrarySystem\Library System Group8\Library System\Library System\obj\Debug\Library System.vbproj.GenerateResource.cache
+S:\Download\Programs\FrontEndLibrarySystem\Library System Group8\Library System\Library System\obj\Debug\Library System.vbproj.CoreCompileInputs.cache
+S:\Download\Programs\FrontEndLibrarySystem\Library System Group8\Library System\Library System\obj\Debug\Library System.exe
+S:\Download\Programs\FrontEndLibrarySystem\Library System Group8\Library System\Library System\obj\Debug\Library System.xml
+S:\Download\Programs\FrontEndLibrarySystem\Library System Group8\Library System\Library System\obj\Debug\Library System.pdb
+S:\Download\Programs\FrontEndLibrarySystem\Library System Group8\Library System\Library System\obj\Debug\Library_System.ForgotPassword.resources
+S:\Download\Programs\FrontEndLibrarySystem\Library System Group8\Library System\Library System\obj\Debug\Library_System.Login.resources
+S:\Download\Programs\FrontEndLibrarySystem\Library System Group8\Library System\Library System\obj\Debug\Library_System.RentedBooks.resources
+S:\Download\Programs\FrontEndLibrarySystem\Library System Group8\Library System\Library System\obj\Debug\Library_System.BookInventory.resources
+S:\Download\Programs\FrontEndLibrarySystem\Library System Group8\Library System\Library System\obj\Debug\Library_System.BookIssuing.resources
+S:\Download\Programs\FrontEndLibrarySystem\Library System Group8\Library System\Library System\obj\Debug\Library_System.MyAccount.resources
+S:\Download\Programs\FrontEndLibrarySystem\Library System Group8\Library System\Library System\obj\Debug\Library_System.LibrarianInterface.resources
+S:\Download\Programs\FrontEndLibrarySystem\Library System Group8\Library System\Library System\obj\Debug\Library_System.Dashboard.resources
+S:\Download\Programs\FrontEndLibrarySystem\Library System Group8\Library System\Library System\obj\Debug\Library_System.ITInterface.resources
+S:\Download\Programs\FrontEndLibrarySystem\Library System Group8\Library System\Library System\obj\Debug\Library_System.ITDashboard.resources
+S:\Download\Programs\FrontEndLibrarySystem\Library System Group8\Library System\Library System\obj\Debug\Library_System.AccountsManagement.resources
+S:\Download\Programs\FrontEndLibrarySystem\Library System Group8\Library System\Library System\obj\Debug\Library_System.AllAccounts.resources
+S:\Download\Programs\FrontEndLibrarySystem\Library System Group8\Library System\Library System\obj\Debug\Library_System.ITMyAccount.resources
+S:\Download\Programs\FrontEndLibrarySystem\Library System Group8\Library System\Library System\obj\Debug\Library_System.ITDatabaseManagement.resources
+S:\Download\Programs\SAD\Library System Group8\Library System\Library System\obj\Debug\Library System.vbproj.AssemblyReference.cache
+S:\Download\Programs\SAD\Library System Group8\Library System\Library System\obj\Debug\Library_System.AccountsManagement.resources
+S:\Download\Programs\SAD\Library System Group8\Library System\Library System\obj\Debug\Library_System.AllAccounts.resources
+S:\Download\Programs\SAD\Library System Group8\Library System\Library System\obj\Debug\Library_System.FirstTimeLogIn.resources
+S:\Download\Programs\SAD\Library System Group8\Library System\Library System\obj\Debug\Library_System.ForgotPassword.resources
+S:\Download\Programs\SAD\Library System Group8\Library System\Library System\obj\Debug\Library_System.ForgotPassword_1.resources
+S:\Download\Programs\SAD\Library System Group8\Library System\Library System\obj\Debug\Library_System.ForgotPassword_2.resources
+S:\Download\Programs\SAD\Library System Group8\Library System\Library System\obj\Debug\Library_System.ITDatabaseManagement.resources
+S:\Download\Programs\SAD\Library System Group8\Library System\Library System\obj\Debug\Library_System.ITInterface.resources
+S:\Download\Programs\SAD\Library System Group8\Library System\Library System\obj\Debug\Library_System.Login.resources
+S:\Download\Programs\SAD\Library System Group8\Library System\Library System\obj\Debug\Library_System.AllBooks.resources
+S:\Download\Programs\SAD\Library System Group8\Library System\Library System\obj\Debug\Library_System.RentedBooks.resources
+S:\Download\Programs\SAD\Library System Group8\Library System\Library System\obj\Debug\Library_System.SplashArt.resources
+S:\Download\Programs\SAD\Library System Group8\Library System\Library System\obj\Debug\Library_System.Resources.resources
+S:\Download\Programs\SAD\Library System Group8\Library System\Library System\obj\Debug\Library System.vbproj.GenerateResource.cache
+S:\Download\Programs\SAD\Library System Group8\Library System\Library System\obj\Debug\Library System.vbproj.CoreCompileInputs.cache
+S:\Download\Programs\SAD\Library System Group8\Library System\Library System\obj\Debug\Library_System.AdminDashboard.resources
+S:\Download\Programs\SAD\Library System Group8\Library System\Library System\obj\Debug\Library_System.AdminMyAccount.resources
+S:\Download\Programs\SAD\Library System Group8\Library System\Library System\obj\Debug\Library_System.StaffInterface.resources
+S:\Download\Programs\SAD\Library System Group8\Library System\Library System\obj\Debug\Library_System.StaffMyAccount.resources
+S:\Download\Programs\SAD\Library System Group8\Library System\Library System\obj\Debug\Library_System.StaffProductManagement.resources
+S:\Download\Programs\SAD\Library System Group8\Library System\Library System\obj\Debug\Library_System.StaffServiceManagement.resources
+S:\Download\Programs\SAD\Library System Group8\Library System\Library System\obj\Debug\Library_System.AllProductsReport.resources
+S:\Download\Programs\SAD\Library System Group8\Library System\Library System\obj\Debug\Library_System.StockIn.resources
+S:\Download\Programs\SAD\Library System Group8\Library System\Library System\obj\Debug\Library_System.StockOut.resources
+S:\Download\Programs\SAD\Library System Group8\Library System\Library System\bin\Debug\YsseanGeneralMerchandiseInventorySystem.exe.config
+S:\Download\Programs\SAD\Library System Group8\Library System\Library System\bin\Debug\YsseanGeneralMerchandiseInventorySystem.exe
+S:\Download\Programs\SAD\Library System Group8\Library System\Library System\bin\Debug\YsseanGeneralMerchandiseInventorySystem.pdb
+S:\Download\Programs\SAD\Library System Group8\Library System\Library System\bin\Debug\YsseanGeneralMerchandiseInventorySystem.xml
+S:\Download\Programs\SAD\Library System Group8\Library System\Library System\obj\Debug\Library_System.StockInReport.resources
+S:\Download\Programs\SAD\Library System Group8\Library System\Library System\obj\Debug\Library_System.StockOutReport.resources
+S:\Download\Programs\SAD\Library System Group8\Library System\Library System\obj\Debug\Library_System.StaffsInterface.resources
+S:\Download\Programs\SAD\Library System Group8\Library System\Library System\obj\Debug\YsseanGeneralMerchandiseInventorySystem.exe
+S:\Download\Programs\SAD\Library System Group8\Library System\Library System\obj\Debug\YsseanGeneralMerchandiseInventorySystem.xml
+S:\Download\Programs\SAD\Library System Group8\Library System\Library System\obj\Debug\YsseanGeneralMerchandiseInventorySystem.pdb
+C:\Users\Admin\Desktop\YSSEANS\Library System\Library System\bin\Debug\YsseanGeneralMerchandiseInventorySystem.exe.config
+C:\Users\Admin\Desktop\YSSEANS\Library System\Library System\bin\Debug\YsseanGeneralMerchandiseInventorySystem.exe
+C:\Users\Admin\Desktop\YSSEANS\Library System\Library System\bin\Debug\YsseanGeneralMerchandiseInventorySystem.pdb
+C:\Users\Admin\Desktop\YSSEANS\Library System\Library System\bin\Debug\YsseanGeneralMerchandiseInventorySystem.xml
+C:\Users\Admin\Desktop\YSSEANS\Library System\Library System\obj\Debug\Library System.vbproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\YSSEANS\Library System\Library System\obj\Debug\Library_System.AccountsManagement.resources
+C:\Users\Admin\Desktop\YSSEANS\Library System\Library System\obj\Debug\Library_System.AllAccounts.resources
+C:\Users\Admin\Desktop\YSSEANS\Library System\Library System\obj\Debug\Library_System.AllProductsReport.resources
+C:\Users\Admin\Desktop\YSSEANS\Library System\Library System\obj\Debug\Library_System.FirstTimeLogIn.resources
+C:\Users\Admin\Desktop\YSSEANS\Library System\Library System\obj\Debug\Library_System.ForgotPassword.resources
+C:\Users\Admin\Desktop\YSSEANS\Library System\Library System\obj\Debug\Library_System.ForgotPassword_1.resources
+C:\Users\Admin\Desktop\YSSEANS\Library System\Library System\obj\Debug\Library_System.ForgotPassword_2.resources
+C:\Users\Admin\Desktop\YSSEANS\Library System\Library System\obj\Debug\Library_System.AdminDashboard.resources
+C:\Users\Admin\Desktop\YSSEANS\Library System\Library System\obj\Debug\Library_System.ITDatabaseManagement.resources
+C:\Users\Admin\Desktop\YSSEANS\Library System\Library System\obj\Debug\Library_System.AdminMyAccount.resources
+C:\Users\Admin\Desktop\YSSEANS\Library System\Library System\obj\Debug\Library_System.StockInReport.resources
+C:\Users\Admin\Desktop\YSSEANS\Library System\Library System\obj\Debug\Library_System.StockOutReport.resources
+C:\Users\Admin\Desktop\YSSEANS\Library System\Library System\obj\Debug\Library_System.StaffDashboard.resources
+C:\Users\Admin\Desktop\YSSEANS\Library System\Library System\obj\Debug\Library_System.StaffInterface.resources
+C:\Users\Admin\Desktop\YSSEANS\Library System\Library System\obj\Debug\Library_System.Login.resources
+C:\Users\Admin\Desktop\YSSEANS\Library System\Library System\obj\Debug\Library_System.AllBooks.resources
+C:\Users\Admin\Desktop\YSSEANS\Library System\Library System\obj\Debug\Library_System.StaffMyAccount.resources
+C:\Users\Admin\Desktop\YSSEANS\Library System\Library System\obj\Debug\Library_System.RentedBooks.resources
+C:\Users\Admin\Desktop\YSSEANS\Library System\Library System\obj\Debug\Library_System.StaffProductManagement.resources
+C:\Users\Admin\Desktop\YSSEANS\Library System\Library System\obj\Debug\Library_System.StaffServiceManagement.resources
+C:\Users\Admin\Desktop\YSSEANS\Library System\Library System\obj\Debug\Library_System.SplashArt.resources
+C:\Users\Admin\Desktop\YSSEANS\Library System\Library System\obj\Debug\Library_System.Resources.resources
+C:\Users\Admin\Desktop\YSSEANS\Library System\Library System\obj\Debug\Library_System.StaffsInterface.resources
+C:\Users\Admin\Desktop\YSSEANS\Library System\Library System\obj\Debug\Library_System.StockIn.resources
+C:\Users\Admin\Desktop\YSSEANS\Library System\Library System\obj\Debug\Library_System.StockOut.resources
+C:\Users\Admin\Desktop\YSSEANS\Library System\Library System\obj\Debug\Library System.vbproj.GenerateResource.cache
+C:\Users\Admin\Desktop\YSSEANS\Library System\Library System\obj\Debug\Library System.vbproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\YSSEANS\Library System\Library System\obj\Debug\YsseanGeneralMerchandiseInventorySystem.exe
+C:\Users\Admin\Desktop\YSSEANS\Library System\Library System\obj\Debug\YsseanGeneralMerchandiseInventorySystem.xml
+C:\Users\Admin\Desktop\YSSEANS\Library System\Library System\obj\Debug\YsseanGeneralMerchandiseInventorySystem.pdb
+C:\Users\Admin\Desktop\YSSEANS\Library System\Library System\obj\Debug\Library_System.Services_Print.resources
+C:\Users\Admin\Desktop\YSSEANS\Library System\Library System\obj\Debug\Library_System.Services_Xerox.resources
+C:\Users\Admin\Desktop\YSSEANS\Library System\Library System\obj\Debug\Library_System.AdminInterface.resources

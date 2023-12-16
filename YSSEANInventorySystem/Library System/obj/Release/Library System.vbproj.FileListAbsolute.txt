@@ -1,0 +1,209 @@
+C:\Users\Admin\Downloads\Library System Group 8\Library System Group 8\Library System\bin\Release\Library System.exe.config
+C:\Users\Admin\Downloads\Library System Group 8\Library System Group 8\Library System\bin\Release\Library System.exe
+C:\Users\Admin\Downloads\Library System Group 8\Library System Group 8\Library System\bin\Release\Library System.pdb
+C:\Users\Admin\Downloads\Library System Group 8\Library System Group 8\Library System\bin\Release\Library System.xml
+C:\Users\Admin\Downloads\Library System Group 8\Library System Group 8\Library System\obj\Release\Library System.vbproj.AssemblyReference.cache
+C:\Users\Admin\Downloads\Library System Group 8\Library System Group 8\Library System\obj\Release\Library_System.AdminLogin.resources
+C:\Users\Admin\Downloads\Library System Group 8\Library System Group 8\Library System\obj\Release\Library_System.AdminView.resources
+C:\Users\Admin\Downloads\Library System Group 8\Library System Group 8\Library System\obj\Release\Library_System.AllBooks.resources
+C:\Users\Admin\Downloads\Library System Group 8\Library System Group 8\Library System\obj\Release\Library_System.AdminRentedBooks.resources
+C:\Users\Admin\Downloads\Library System Group 8\Library System Group 8\Library System\obj\Release\Library_System.AdminBookManagement.resources
+C:\Users\Admin\Downloads\Library System Group 8\Library System Group 8\Library System\obj\Release\Library_System.AdminBookIssuing.resources
+C:\Users\Admin\Downloads\Library System Group 8\Library System Group 8\Library System\obj\Release\Library_System.LogInMenu.resources
+C:\Users\Admin\Downloads\Library System Group 8\Library System Group 8\Library System\obj\Release\Library_System.SplashArt.resources
+C:\Users\Admin\Downloads\Library System Group 8\Library System Group 8\Library System\obj\Release\Library_System.Resources.resources
+C:\Users\Admin\Downloads\Library System Group 8\Library System Group 8\Library System\obj\Release\Library_System.StudentBookIssuing.resources
+C:\Users\Admin\Downloads\Library System Group 8\Library System Group 8\Library System\obj\Release\Library_System.StudentLogin.resources
+C:\Users\Admin\Downloads\Library System Group 8\Library System Group 8\Library System\obj\Release\Library_System.AdminStudentsRecord.resources
+C:\Users\Admin\Downloads\Library System Group 8\Library System Group 8\Library System\obj\Release\Library_System.StudentView.resources
+C:\Users\Admin\Downloads\Library System Group 8\Library System Group 8\Library System\obj\Release\Library_System.WelcomeToAdminView.resources
+C:\Users\Admin\Downloads\Library System Group 8\Library System Group 8\Library System\obj\Release\Library_System.WelcomeToStudentView.resources
+C:\Users\Admin\Downloads\Library System Group 8\Library System Group 8\Library System\obj\Release\Library System.vbproj.GenerateResource.cache
+C:\Users\Admin\Downloads\Library System Group 8\Library System Group 8\Library System\obj\Release\Library System.vbproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\Library System Group 8\Library System Group 8\Library System\obj\Release\Library System.exe
+C:\Users\Admin\Downloads\Library System Group 8\Library System Group 8\Library System\obj\Release\Library System.xml
+C:\Users\Admin\Downloads\Library System Group 8\Library System Group 8\Library System\obj\Release\Library System.pdb
+C:\Users\Admin\Downloads\Library System Group 8\Library System\bin\Release\Library System.exe.config
+C:\Users\Admin\Downloads\Library System Group 8\Library System\bin\Release\Library System.exe
+C:\Users\Admin\Downloads\Library System Group 8\Library System\bin\Release\Library System.pdb
+C:\Users\Admin\Downloads\Library System Group 8\Library System\bin\Release\Library System.xml
+C:\Users\Admin\Downloads\Library System Group 8\Library System\obj\Release\Library System.vbproj.AssemblyReference.cache
+C:\Users\Admin\Downloads\Library System Group 8\Library System\obj\Release\Library System.vbproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\Downloads\Library System Group 8\Library System\obj\Release\Library_System.AdminLogin.resources
+C:\Users\Admin\Downloads\Library System Group 8\Library System\obj\Release\Library_System.AdminView.resources
+C:\Users\Admin\Downloads\Library System Group 8\Library System\obj\Release\Library_System.AllBooks.resources
+C:\Users\Admin\Downloads\Library System Group 8\Library System\obj\Release\Library_System.AdminRentedBooks.resources
+C:\Users\Admin\Downloads\Library System Group 8\Library System\obj\Release\Library_System.AdminBookManagement.resources
+C:\Users\Admin\Downloads\Library System Group 8\Library System\obj\Release\Library_System.AdminBookIssuing.resources
+C:\Users\Admin\Downloads\Library System Group 8\Library System\obj\Release\Library_System.LogInMenu.resources
+C:\Users\Admin\Downloads\Library System Group 8\Library System\obj\Release\Library_System.SplashArt.resources
+C:\Users\Admin\Downloads\Library System Group 8\Library System\obj\Release\Library_System.Resources.resources
+C:\Users\Admin\Downloads\Library System Group 8\Library System\obj\Release\Library_System.StudentBookIssuing.resources
+C:\Users\Admin\Downloads\Library System Group 8\Library System\obj\Release\Library_System.StudentLogin.resources
+C:\Users\Admin\Downloads\Library System Group 8\Library System\obj\Release\Library_System.AdminStudentsRecord.resources
+C:\Users\Admin\Downloads\Library System Group 8\Library System\obj\Release\Library_System.StudentView.resources
+C:\Users\Admin\Downloads\Library System Group 8\Library System\obj\Release\Library_System.WelcomeToAdminView.resources
+C:\Users\Admin\Downloads\Library System Group 8\Library System\obj\Release\Library_System.WelcomeToStudentView.resources
+C:\Users\Admin\Downloads\Library System Group 8\Library System\obj\Release\Library System.vbproj.GenerateResource.cache
+C:\Users\Admin\Downloads\Library System Group 8\Library System\obj\Release\Library System.vbproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\Library System Group 8\Library System\obj\Release\Library System.exe
+C:\Users\Admin\Downloads\Library System Group 8\Library System\obj\Release\Library System.xml
+C:\Users\Admin\Downloads\Library System Group 8\Library System\obj\Release\Library System.pdb
+C:\Users\Admin\Downloads\Library System Group 8(login at admin na)\Library System\bin\Release\Library System.exe.config
+C:\Users\Admin\Downloads\Library System Group 8(login at admin na)\Library System\bin\Release\Library System.exe
+C:\Users\Admin\Downloads\Library System Group 8(login at admin na)\Library System\bin\Release\Library System.pdb
+C:\Users\Admin\Downloads\Library System Group 8(login at admin na)\Library System\bin\Release\Library System.xml
+C:\Users\Admin\Downloads\Library System Group 8(login at admin na)\Library System\obj\Release\Library System.vbproj.AssemblyReference.cache
+C:\Users\Admin\Downloads\Library System Group 8(login at admin na)\Library System\obj\Release\Library System.vbproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\Downloads\Library System Group 8(login at admin na)\Library System\obj\Release\Library_System.AdminLogin.resources
+C:\Users\Admin\Downloads\Library System Group 8(login at admin na)\Library System\obj\Release\Library_System.AdminView.resources
+C:\Users\Admin\Downloads\Library System Group 8(login at admin na)\Library System\obj\Release\Library_System.AllBooks.resources
+C:\Users\Admin\Downloads\Library System Group 8(login at admin na)\Library System\obj\Release\Library_System.AdminRentedBooks.resources
+C:\Users\Admin\Downloads\Library System Group 8(login at admin na)\Library System\obj\Release\Library_System.AdminBookManagement.resources
+C:\Users\Admin\Downloads\Library System Group 8(login at admin na)\Library System\obj\Release\Library_System.AdminBookIssuing.resources
+C:\Users\Admin\Downloads\Library System Group 8(login at admin na)\Library System\obj\Release\Library_System.LogInMenu.resources
+C:\Users\Admin\Downloads\Library System Group 8(login at admin na)\Library System\obj\Release\Library_System.SplashArt.resources
+C:\Users\Admin\Downloads\Library System Group 8(login at admin na)\Library System\obj\Release\Library_System.Resources.resources
+C:\Users\Admin\Downloads\Library System Group 8(login at admin na)\Library System\obj\Release\Library_System.StudentBookIssuing.resources
+C:\Users\Admin\Downloads\Library System Group 8(login at admin na)\Library System\obj\Release\Library_System.StudentLogin.resources
+C:\Users\Admin\Downloads\Library System Group 8(login at admin na)\Library System\obj\Release\Library_System.AdminStudentsRecord.resources
+C:\Users\Admin\Downloads\Library System Group 8(login at admin na)\Library System\obj\Release\Library_System.StudentView.resources
+C:\Users\Admin\Downloads\Library System Group 8(login at admin na)\Library System\obj\Release\Library_System.WelcomeToAdminView.resources
+C:\Users\Admin\Downloads\Library System Group 8(login at admin na)\Library System\obj\Release\Library_System.WelcomeToStudentView.resources
+C:\Users\Admin\Downloads\Library System Group 8(login at admin na)\Library System\obj\Release\Library System.vbproj.GenerateResource.cache
+C:\Users\Admin\Downloads\Library System Group 8(login at admin na)\Library System\obj\Release\Library System.vbproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\Library System Group 8(login at admin na)\Library System\obj\Release\Library System.exe
+C:\Users\Admin\Downloads\Library System Group 8(login at admin na)\Library System\obj\Release\Library System.xml
+C:\Users\Admin\Downloads\Library System Group 8(login at admin na)\Library System\obj\Release\Library System.pdb
+C:\Users\Admin\Downloads\library group 8\Library System\bin\Release\Library System.exe.config
+C:\Users\Admin\Downloads\library group 8\Library System\bin\Release\Library System.exe
+C:\Users\Admin\Downloads\library group 8\Library System\bin\Release\Library System.pdb
+C:\Users\Admin\Downloads\library group 8\Library System\bin\Release\Library System.xml
+C:\Users\Admin\Downloads\library group 8\Library System\obj\Release\Library System.vbproj.AssemblyReference.cache
+C:\Users\Admin\Downloads\library group 8\Library System\obj\Release\Library System.vbproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\Downloads\library group 8\Library System\obj\Release\Library_System.AdminLogin.resources
+C:\Users\Admin\Downloads\library group 8\Library System\obj\Release\Library_System.AdminView.resources
+C:\Users\Admin\Downloads\library group 8\Library System\obj\Release\Library_System.AllBooks.resources
+C:\Users\Admin\Downloads\library group 8\Library System\obj\Release\Library_System.AdminRentedBooks.resources
+C:\Users\Admin\Downloads\library group 8\Library System\obj\Release\Library_System.AdminBookManagement.resources
+C:\Users\Admin\Downloads\library group 8\Library System\obj\Release\Library_System.AdminBookIssuing.resources
+C:\Users\Admin\Downloads\library group 8\Library System\obj\Release\Library_System.LogInMenu.resources
+C:\Users\Admin\Downloads\library group 8\Library System\obj\Release\Library_System.SplashArt.resources
+C:\Users\Admin\Downloads\library group 8\Library System\obj\Release\Library_System.Resources.resources
+C:\Users\Admin\Downloads\library group 8\Library System\obj\Release\Library_System.StudentBookIssuing.resources
+C:\Users\Admin\Downloads\library group 8\Library System\obj\Release\Library_System.StudentLogin.resources
+C:\Users\Admin\Downloads\library group 8\Library System\obj\Release\Library_System.AdminStudentsRecord.resources
+C:\Users\Admin\Downloads\library group 8\Library System\obj\Release\Library_System.StudentView.resources
+C:\Users\Admin\Downloads\library group 8\Library System\obj\Release\Library_System.WelcomeToAdminView.resources
+C:\Users\Admin\Downloads\library group 8\Library System\obj\Release\Library_System.WelcomeToStudentView.resources
+C:\Users\Admin\Downloads\library group 8\Library System\obj\Release\Library System.vbproj.GenerateResource.cache
+C:\Users\Admin\Downloads\library group 8\Library System\obj\Release\Library System.vbproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\library group 8\Library System\obj\Release\Library System.exe
+C:\Users\Admin\Downloads\library group 8\Library System\obj\Release\Library System.xml
+C:\Users\Admin\Downloads\library group 8\Library System\obj\Release\Library System.pdb
+C:\Users\Veejay\Downloads\mojimji\Library System\bin\Release\Library System.exe.config
+C:\Users\Veejay\Downloads\mojimji\Library System\bin\Release\Library System.exe
+C:\Users\Veejay\Downloads\mojimji\Library System\bin\Release\Library System.pdb
+C:\Users\Veejay\Downloads\mojimji\Library System\bin\Release\Library System.xml
+C:\Users\Veejay\Downloads\mojimji\Library System\obj\Release\Library System.vbproj.AssemblyReference.cache
+C:\Users\Veejay\Downloads\mojimji\Library System\obj\Release\Library_System.AdminLogin.resources
+C:\Users\Veejay\Downloads\mojimji\Library System\obj\Release\Library_System.AdminView.resources
+C:\Users\Veejay\Downloads\mojimji\Library System\obj\Release\Library_System.AllBooks.resources
+C:\Users\Veejay\Downloads\mojimji\Library System\obj\Release\Library_System.AdminRentedBooks.resources
+C:\Users\Veejay\Downloads\mojimji\Library System\obj\Release\Library_System.AdminBookManagement.resources
+C:\Users\Veejay\Downloads\mojimji\Library System\obj\Release\Library_System.AdminBookIssuing.resources
+C:\Users\Veejay\Downloads\mojimji\Library System\obj\Release\Library_System.LogInMenu.resources
+C:\Users\Veejay\Downloads\mojimji\Library System\obj\Release\Library_System.SplashArt.resources
+C:\Users\Veejay\Downloads\mojimji\Library System\obj\Release\Library_System.Resources.resources
+C:\Users\Veejay\Downloads\mojimji\Library System\obj\Release\Library_System.StudentBookIssuing.resources
+C:\Users\Veejay\Downloads\mojimji\Library System\obj\Release\Library_System.StudentLogin.resources
+C:\Users\Veejay\Downloads\mojimji\Library System\obj\Release\Library_System.AdminStudentsRecord.resources
+C:\Users\Veejay\Downloads\mojimji\Library System\obj\Release\Library_System.StudentView.resources
+C:\Users\Veejay\Downloads\mojimji\Library System\obj\Release\Library_System.WelcomeToAdminView.resources
+C:\Users\Veejay\Downloads\mojimji\Library System\obj\Release\Library_System.WelcomeToStudentView.resources
+C:\Users\Veejay\Downloads\mojimji\Library System\obj\Release\Library System.vbproj.GenerateResource.cache
+C:\Users\Veejay\Downloads\mojimji\Library System\obj\Release\Library System.vbproj.CoreCompileInputs.cache
+C:\Users\Veejay\Downloads\mojimji\Library System\obj\Release\Library System.exe
+C:\Users\Veejay\Downloads\mojimji\Library System\obj\Release\Library System.xml
+C:\Users\Veejay\Downloads\mojimji\Library System\obj\Release\Library System.pdb
+C:\Users\Admin\Downloads\mojimji-20230930T111638Z-001\mojimji\Library System\obj\Release\Library System.vbproj.AssemblyReference.cache
+C:\Users\Admin\Downloads\mojimji-20230930T111638Z-001\mojimji\Library System\obj\Release\Library System.exe
+C:\Users\Admin\Downloads\mojimji-20230930T111638Z-001\mojimji\Library System\obj\Release\Library System.xml
+C:\Users\Admin\Downloads\mojimji-20230930T111638Z-001\mojimji\Library System\obj\Release\Library System.pdb
+C:\Users\Admin\Downloads\mojimji-20230930T111638Z-001\mojimji\Library System\bin\Release\Library System.exe.config
+C:\Users\Admin\Downloads\mojimji-20230930T111638Z-001\mojimji\Library System\bin\Release\Library System.exe
+C:\Users\Admin\Downloads\mojimji-20230930T111638Z-001\mojimji\Library System\obj\Release\Library_System.AdminLogin.resources
+C:\Users\Admin\Downloads\mojimji-20230930T111638Z-001\mojimji\Library System\obj\Release\Library_System.AdminView.resources
+C:\Users\Admin\Downloads\mojimji-20230930T111638Z-001\mojimji\Library System\obj\Release\Library_System.AllBooks.resources
+C:\Users\Admin\Downloads\mojimji-20230930T111638Z-001\mojimji\Library System\obj\Release\Library_System.AdminRentedBooks.resources
+C:\Users\Admin\Downloads\mojimji-20230930T111638Z-001\mojimji\Library System\obj\Release\Library_System.AdminBookManagement.resources
+C:\Users\Admin\Downloads\mojimji-20230930T111638Z-001\mojimji\Library System\obj\Release\Library_System.AdminBookIssuing.resources
+C:\Users\Admin\Downloads\mojimji-20230930T111638Z-001\mojimji\Library System\obj\Release\Library_System.LogInMenu.resources
+C:\Users\Admin\Downloads\mojimji-20230930T111638Z-001\mojimji\Library System\obj\Release\Library_System.SplashArt.resources
+C:\Users\Admin\Downloads\mojimji-20230930T111638Z-001\mojimji\Library System\obj\Release\Library_System.Resources.resources
+C:\Users\Admin\Downloads\mojimji-20230930T111638Z-001\mojimji\Library System\obj\Release\Library_System.StudentBookIssuing.resources
+C:\Users\Admin\Downloads\mojimji-20230930T111638Z-001\mojimji\Library System\obj\Release\Library_System.StudentLogin.resources
+C:\Users\Admin\Downloads\mojimji-20230930T111638Z-001\mojimji\Library System\obj\Release\Library_System.AdminStudentsRecord.resources
+C:\Users\Admin\Downloads\mojimji-20230930T111638Z-001\mojimji\Library System\obj\Release\Library_System.StudentView.resources
+C:\Users\Admin\Downloads\mojimji-20230930T111638Z-001\mojimji\Library System\obj\Release\Library_System.WelcomeToAdminView.resources
+C:\Users\Admin\Downloads\mojimji-20230930T111638Z-001\mojimji\Library System\obj\Release\Library_System.WelcomeToStudentView.resources
+C:\Users\Admin\Downloads\mojimji-20230930T111638Z-001\mojimji\Library System\obj\Release\Library System.vbproj.GenerateResource.cache
+C:\Users\Admin\Downloads\mojimji-20230930T111638Z-001\mojimji\Library System\obj\Release\Library System.vbproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\mojimji-20230930T111638Z-001\mojimji\Library System\bin\Release\Library System.pdb
+C:\Users\Admin\Downloads\mojimji-20230930T111638Z-001\mojimji\Library System\bin\Release\Library System.xml
+C:\Users\Eduard Gomez\Downloads\Library System\Library System\Library System\obj\Release\Library System.vbproj.AssemblyReference.cache
+C:\Users\Eduard Gomez\Downloads\Library System\Library System\Library System\obj\Release\Library System.exe
+C:\Users\Eduard Gomez\Downloads\Library System\Library System\Library System\obj\Release\Library System.xml
+C:\Users\Eduard Gomez\Downloads\Library System\Library System\Library System\obj\Release\Library System.pdb
+C:\Users\Eduard Gomez\Downloads\Library System\Library System\Library System\bin\Release\Library System.exe.config
+C:\Users\Eduard Gomez\Downloads\Library System\Library System\Library System\bin\Release\Library System.exe
+C:\Users\Eduard Gomez\Downloads\Library System\Library System\Library System\bin\Release\Library System.pdb
+C:\Users\Eduard Gomez\Downloads\Library System\Library System\Library System\bin\Release\Library System.xml
+C:\Users\Eduard Gomez\Downloads\Library System\Library System\Library System\obj\Release\Library_System.AdminLogin.resources
+C:\Users\Eduard Gomez\Downloads\Library System\Library System\Library System\obj\Release\Library_System.AdminView.resources
+C:\Users\Eduard Gomez\Downloads\Library System\Library System\Library System\obj\Release\Library_System.AllBooks.resources
+C:\Users\Eduard Gomez\Downloads\Library System\Library System\Library System\obj\Release\Library_System.AdminRentedBooks.resources
+C:\Users\Eduard Gomez\Downloads\Library System\Library System\Library System\obj\Release\Library_System.AdminBookManagement.resources
+C:\Users\Eduard Gomez\Downloads\Library System\Library System\Library System\obj\Release\Library_System.AdminBookIssuing.resources
+C:\Users\Eduard Gomez\Downloads\Library System\Library System\Library System\obj\Release\Library_System.LogInMenu.resources
+C:\Users\Eduard Gomez\Downloads\Library System\Library System\Library System\obj\Release\Library_System.SplashArt.resources
+C:\Users\Eduard Gomez\Downloads\Library System\Library System\Library System\obj\Release\Library_System.Resources.resources
+C:\Users\Eduard Gomez\Downloads\Library System\Library System\Library System\obj\Release\Library_System.StudentBookIssuing.resources
+C:\Users\Eduard Gomez\Downloads\Library System\Library System\Library System\obj\Release\Library_System.StudentLogin.resources
+C:\Users\Eduard Gomez\Downloads\Library System\Library System\Library System\obj\Release\Library_System.AdminStudentsRecord.resources
+C:\Users\Eduard Gomez\Downloads\Library System\Library System\Library System\obj\Release\Library_System.StudentView.resources
+C:\Users\Eduard Gomez\Downloads\Library System\Library System\Library System\obj\Release\Library_System.AnimatedStudentViewTrial.resources
+C:\Users\Eduard Gomez\Downloads\Library System\Library System\Library System\obj\Release\Library_System.WelcomeToAdminView.resources
+C:\Users\Eduard Gomez\Downloads\Library System\Library System\Library System\obj\Release\Library_System.WelcomeToStudentView.resources
+C:\Users\Eduard Gomez\Downloads\Library System\Library System\Library System\obj\Release\Library System.vbproj.GenerateResource.cache
+C:\Users\Eduard Gomez\Downloads\Library System\Library System\Library System\obj\Release\Library System.vbproj.CoreCompileInputs.cache
+S:\Download\Programs\FrontEndLibrarySystem\Library System Group8\Library System\Library System\bin\Release\Library System.exe.config
+S:\Download\Programs\FrontEndLibrarySystem\Library System Group8\Library System\Library System\bin\Release\Library System.exe
+S:\Download\Programs\FrontEndLibrarySystem\Library System Group8\Library System\Library System\bin\Release\Library System.pdb
+S:\Download\Programs\FrontEndLibrarySystem\Library System Group8\Library System\Library System\bin\Release\Library System.xml
+S:\Download\Programs\FrontEndLibrarySystem\Library System Group8\Library System\Library System\obj\Release\Library System.vbproj.AssemblyReference.cache
+S:\Download\Programs\FrontEndLibrarySystem\Library System Group8\Library System\Library System\obj\Release\Library_System.AccountsManagement.resources
+S:\Download\Programs\FrontEndLibrarySystem\Library System Group8\Library System\Library System\obj\Release\Library_System.AllAccounts.resources
+S:\Download\Programs\FrontEndLibrarySystem\Library System Group8\Library System\Library System\obj\Release\Library_System.ForgotPassword.resources
+S:\Download\Programs\FrontEndLibrarySystem\Library System Group8\Library System\Library System\obj\Release\Library_System.ITDashboard.resources
+S:\Download\Programs\FrontEndLibrarySystem\Library System Group8\Library System\Library System\obj\Release\Library_System.ITDatabaseManagement.resources
+S:\Download\Programs\FrontEndLibrarySystem\Library System Group8\Library System\Library System\obj\Release\Library_System.ITInterface.resources
+S:\Download\Programs\FrontEndLibrarySystem\Library System Group8\Library System\Library System\obj\Release\Library_System.ITMyAccount.resources
+S:\Download\Programs\FrontEndLibrarySystem\Library System Group8\Library System\Library System\obj\Release\Library_System.LibrarianInterface.resources
+S:\Download\Programs\FrontEndLibrarySystem\Library System Group8\Library System\Library System\obj\Release\Library_System.Login.resources
+S:\Download\Programs\FrontEndLibrarySystem\Library System Group8\Library System\Library System\obj\Release\Library_System.AllBooks.resources
+S:\Download\Programs\FrontEndLibrarySystem\Library System Group8\Library System\Library System\obj\Release\Library_System.MyAccount.resources
+S:\Download\Programs\FrontEndLibrarySystem\Library System Group8\Library System\Library System\obj\Release\Library_System.RentedBooks.resources
+S:\Download\Programs\FrontEndLibrarySystem\Library System Group8\Library System\Library System\obj\Release\Library_System.BookInventory.resources
+S:\Download\Programs\FrontEndLibrarySystem\Library System Group8\Library System\Library System\obj\Release\Library_System.BookIssuing.resources
+S:\Download\Programs\FrontEndLibrarySystem\Library System Group8\Library System\Library System\obj\Release\Library_System.SplashArt.resources
+S:\Download\Programs\FrontEndLibrarySystem\Library System Group8\Library System\Library System\obj\Release\Library_System.Resources.resources
+S:\Download\Programs\FrontEndLibrarySystem\Library System Group8\Library System\Library System\obj\Release\Library_System.Dashboard.resources
+S:\Download\Programs\FrontEndLibrarySystem\Library System Group8\Library System\Library System\obj\Release\Library System.vbproj.GenerateResource.cache
+S:\Download\Programs\FrontEndLibrarySystem\Library System Group8\Library System\Library System\obj\Release\Library System.vbproj.CoreCompileInputs.cache
+S:\Download\Programs\FrontEndLibrarySystem\Library System Group8\Library System\Library System\obj\Release\Library System.exe
+S:\Download\Programs\FrontEndLibrarySystem\Library System Group8\Library System\Library System\obj\Release\Library System.xml
+S:\Download\Programs\FrontEndLibrarySystem\Library System Group8\Library System\Library System\obj\Release\Library System.pdb
+S:\Download\Programs\FrontEndLibrarySystem\Library System Group8\Library System\Library System\obj\Release\Library_System.ForgotPassword_1.resources
+S:\Download\Programs\FrontEndLibrarySystem\Library System Group8\Library System\Library System\obj\Release\Library_System.ForgotPassword_2.resources
+S:\Download\Programs\FrontEndLibrarySystem\Library System Group8\Library System\Library System\obj\Release\Library_System.FirstTimeLogIn.resources
